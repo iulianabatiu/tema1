@@ -1,4 +1,4 @@
-# tema1
+# tema-1.1
 
 import random
 generated = random.randint(0,100)
